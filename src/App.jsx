@@ -1,5 +1,5 @@
 import React from 'react';
-import { HERO_CONTENT, ABOUT_CONTENT, SKILLS_DATA, PROJECTS_DATA } from './data';
+import { HERO_CONTENT, ABOUT_CONTENT, SKILLS_DATA, PROJECTS_DATA } from './data.jsx';
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 const App = () => {
