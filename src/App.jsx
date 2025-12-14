@@ -123,10 +123,10 @@ const App = () => {
                     </a>
 
                     <div className="mt-12 flex justify-center space-x-8 text-slate-500">
-                        <a href="https://github.com/Divyesh172" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 hover:scale-110 transition-all">
+                        <a href="https://github.com/Divyesh172" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 hover:scale-110 transition-all" aria-label="Visit my GitHub Profile">
                             <FaGithub size={28} />
                         </a>
-                        <a href="https://www.linkedin.com/in/divyesh-trivedi-mumbai/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 hover:scale-110 transition-all">
+                        <a href="https://www.linkedin.com/in/divyesh-trivedi-mumbai/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 hover:scale-110 transition-all" aria-label="Visit my LinkedIn Profile">
                             <FaLinkedin size={28} />
                         </a>
                     </div>
